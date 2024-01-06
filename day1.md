@@ -22,7 +22,6 @@ Today's learning focused on setting up a RESTful API using C# with MySQL, implem
 │
 ├── Program.cs
 ├── Startup.cs
-└── day1.md
 ```
 
 ## Key Learnings
